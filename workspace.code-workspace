@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Image_recognizer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project103"
+	}
+}
